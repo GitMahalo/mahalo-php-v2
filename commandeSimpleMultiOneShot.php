@@ -1,5 +1,5 @@
 <?php  
- 
+//test
 $clientSoap = new SoapClient(   
         "http://www.aboweb.com/aboweb/abmWeb?wsdl" ,array("trace" => 1, "exceptions" => 0)   
 );
